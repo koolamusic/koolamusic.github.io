@@ -1,6 +1,6 @@
 
 # SEO settings
-title: "Andrew"
+title: "Andrew "
 title2: "Miracle" # default: ""
 description: "Andrew Miracle is one of the most diverse and multi-faceted personalities in this universe"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, andrew miracle, web developer, web designer"
@@ -11,7 +11,7 @@ baseurl: "" # apply repo name if use it under gh-pages branch
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/tecmie/tecmie.github.io
 disqus_shortname: "hnbloggithub"
-twitter_username: "HeiswayiNrird"
+twitter_username: "koolamusic"
 comments: true
 
 # Build settings
@@ -43,7 +43,7 @@ author:
 # social settings
 og_locale: "en_US"
 twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
+twitter_site: "@koolamusic"
 
 gems:
   - bourbon

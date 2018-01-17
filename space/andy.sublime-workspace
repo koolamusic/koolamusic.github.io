@@ -1,0 +1,564 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"ma",
+				"marker-mid"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"align",
+				"align-self"
+			],
+			[
+				"inli",
+				"inline-flex"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"hide",
+				"hidePreview"
+			],
+			[
+				"transEndEv",
+				"transEndEventNames"
+			],
+			[
+				"large",
+				"large-12"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 2958579,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 74.0,
+		"last_filter": "LiveReload: Enable/disable plugins",
+		"selected_items":
+		[
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: If Condition"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"file",
+			"ls",
+			"console.log(\"heaven\");"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/andrew",
+		"/var/www/html/andrew/assets",
+		"/var/www/html/andrew/assets/css",
+		"/var/www/html/andrew/assets/scss",
+		"/var/www/html/andrew/space"
+	],
+	"file_history":
+	[
+		"/var/www/html/andrew/assets/scss/_variables.scss",
+		"/var/www/html/cs/andrew/main.html",
+		"/var/www/html/cs/andrew/index2.html",
+		"/var/www/html/cs/andrew/index1.html",
+		"/var/www/html/cs/andrew/index.html",
+		"/home/alexare/Documents/andrew/piano.svg",
+		"/home/alexare/Documents/andrew/optimized.svg",
+		"/home/alexare/Documents/andrew/another.svg",
+		"/home/alexare/Documents/andrew/piano.svg'",
+		"/home/alexare/Documents/andrew/pianosa.svg",
+		"/var/www/html/cs/andrew/index3.html",
+		"/var/www/html/cs/andrew/.htaccess",
+		"/home/alexare/Downloads/Untitled Folder/Let-s-play-music-poster/10576-NMLFCJ.eps",
+		"/var/www/html/git/dickson/portal/version.html",
+		"/var/www/html/git/dickson/index.html",
+		"/var/www/html/git/dickson/charity-loans",
+		"/var/www/html/git/dickson/charityis",
+		"/var/www/html/git/dickson/ethical-bank",
+		"/var/www/html/git/dickson/ethical-easy-access-account-business",
+		"/var/www/html/git/dickson/ethical-easy-access-account-charity",
+		"/var/www/html/git/dickson/ethical-isa",
+		"/var/www/html/git/dickson/social-impact",
+		"/var/www/html/git/dickson/social-impact?",
+		"/var/www/html/git/dickson/ethical-savings/charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/community-account-1",
+		"/var/www/html/git/dickson/ethical-savings/community-account-1-1",
+		"/var/www/html/git/dickson/ethical-savings/corporate",
+		"/var/www/html/git/dickson/ethical-savings/ethical-1-year-fixed-term-for-businesses",
+		"/var/www/html/git/dickson/ethical-savings/ethical-100-day-notice-account-for-businesses",
+		"/var/www/html/git/dickson/ethical-savings/ethical-100-day-notice-account-for-charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/ethical-3-year-fixed-term-for-businesses",
+		"/var/www/html/git/dickson/ethical-savings/ethical-3-year-fixed-term-for-charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/ethical-40-day-notice-account-for-businesses",
+		"/var/www/html/git/dickson/ethical-savings/ethical-40-day-notice-account-for-charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/ethical-account-1-year-fixed-term-for-charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/ethical-easy-access-for-businesses",
+		"/var/www/html/git/dickson/ethical-savings/ethical-easy-access-for-charities-trusts",
+		"/var/www/html/git/dickson/ethical-savings/ethical-isa-1",
+		"/var/www/html/git/dickson/ethical-savings/personal",
+		"/var/www/html/git/dickson/ethical-savings/savings-account-1",
+		"/var/www/html/git/dickson/ethical-savings/savings-account-1-1",
+		"/var/www/html/git/dickson/ethical-savings/savings-account-1-1-1",
+		"/var/www/html/git/dickson/news/10-reasons-to-follow-the-money-saved-with-an-ethical-bank",
+		"/var/www/html/git/dickson/news/11-tips-for-the-new-year-inspired-by-charity-success-stories",
+		"/var/www/html/git/dickson/news/15-reasons-why-were-a-bank-for-good",
+		"/var/www/html/git/dickson/news/19th-century-shoe-manufacturers-almshouses-polished-up-for-the-future",
+		"/var/www/html/git/dickson/news/4-charities-paving-the-way-for-virtual-reality",
+		"/var/www/html/git/dickson/news/5-legal-considerations-of-taking-on-loan-finance-1",
+		"/var/www/html/git/dickson/news/7-ways-to-get-the-response-you-want-from-your-marketing",
+		"/var/www/html/git/dickson/news/a-bank-that-exists-to-lend-to-charities-and-social-enterprises",
+		"/var/www/html/git/dickson/news/a-bank-that-pays-living-wages-not-excessive-bonuses",
+		"/var/www/html/git/dickson/news/a-first-stop-for-people-facing-homelessnes",
+		"/var/www/html/git/dickson/news/a-word-on-movements-ethical-finance-and-the-impact-of-values",
+		"/var/www/html/git/dickson/news/act-like-amazon-or-save-the-amazon-the-ball-is-in-our-court",
+		"/var/www/html/git/dickson/news/action-on-hearing-loss-saving-vital-support-services",
+		"/var/www/html/git/dickson/news/are-you-a-social-enterprise-mark-holder-heres-your-loan-discount-code",
+		"/var/www/html/git/dickson/news/are-you-a-sporta-member-heres-your-loan-discount-code",
+		"/var/www/html/git/dickson/news/are-you-an-acevo-member-heres-your-loan-discount-code-1",
+		"/var/www/html/git/dickson/news/are-you-getting-the-most-out-of-twitter-top-tips-for-your-charity",
+		"/var/www/html/git/dickson/news/autism-plus-building-a-chocolate-factory-with-a-difference",
+		"/var/www/html/git/dickson/news/avid-charity-shoppers-reveal-what-makes-an-irresistible-charity-shop",
+		"/var/www/html/git/dickson/news/bethel-church-a-community-hub",
+		"/var/www/html/git/dickson/news/big-potential-event-social-investment-explained-north-west-12-october",
+		"/var/www/html/git/dickson/news/big-potential-event-social-investment-explained-yorkshire-humber-1",
+		"/var/www/html/git/dickson/news/big-society-capital-makes-biggest-single-investment-to-date-in-charity-bank",
+		"/var/www/html/git/dickson/news/borrower-survey-results-2016",
+		"/var/www/html/git/dickson/news/buy-better-not-more",
+		"/var/www/html/git/dickson/news/cathays-sports-social-club-revitalising-a-community-hub",
+		"/var/www/html/git/dickson/news/cdfi-code-of-practice",
+		"/var/www/html/git/dickson/news/charities-and-loans-a-good-match",
+		"/var/www/html/git/dickson/news/charity-anchor-coffee-runs-1st-ethical-christmas-market-in-manchester",
+		"/var/www/html/git/dickson/news/charity-bank-a-bank-for-good",
+		"/var/www/html/git/dickson/news/charity-bank-announces-annual-results-2015",
+		"/var/www/html/git/dickson/news/charity-bank-announces-annual-results-for-2016",
+		"/var/www/html/git/dickson/news/charity-bank-announces-strong-start-to-the-year-as-big-society-capital-invests-a-further-2-5-million",
+		"/var/www/html/git/dickson/news/charity-bank-commits-to-its-future-in-tonbridge",
+		"/var/www/html/git/dickson/news/charity-bank-expands-senior-team-as-it-seeks-to-grow-faster",
+		"/var/www/html/git/dickson/news/charity-bank-grows-its-approved-loan-book-as-big-society-capital-invests-a-further-5-million",
+		"/var/www/html/git/dickson/news/charity-bank-impact-awards-2014",
+		"/var/www/html/git/dickson/news/charity-bank-impact-awards-winners-announced",
+		"/var/www/html/git/dickson/news/charity-bank-is-only-uk-bank-to-be-granted-social-enterprise-mark",
+		"/var/www/html/git/dickson/news/charity-bank-is-the-first-bank-in-europe-to-achieve-certification-as-a-b-corporation",
+		"/var/www/html/git/dickson/news/charity-bank-lays-foundations-for-growth",
+		"/var/www/html/git/dickson/news/charity-bank-loan-helps-action-on-hearing-save-local-support-services-for-deaf-adults-in-westgate-on-sea",
+		"/var/www/html/git/dickson/news/charity-bank-loan-secures-innovative-housing-model",
+		"/var/www/html/git/dickson/news/charity-bank-named-among-best-for-the-world-in-global-business-honours",
+		"/var/www/html/git/dickson/news/charity-bank-open-day-2012",
+		"/var/www/html/git/dickson/news/charity-bank-open-day-2013",
+		"/var/www/html/git/dickson/news/charity-bank-pillar-3-disclosure",
+		"/var/www/html/git/dickson/news/charity-bank-receives-250k-investment-from-barrow-cadbury-trust",
+		"/var/www/html/git/dickson/news/charity-bank-strengthens-board-with-appointment-of-two-new-non-exec-directors",
+		"/var/www/html/git/dickson/news/charity-bank-top-in-index-of-ethical-banks-for-the-tenth-successive-year",
+		"/var/www/html/git/dickson/news/charity-banks-loan-book-exceeds-100-million",
+		"/var/www/html/git/dickson/news/charity-film-awards",
+		"/var/www/html/git/dickson/news/charity-is-day-one",
+		"/var/www/html/git/dickson/news/charity-loans-a-guide-for-trustees-and-managers",
+		"/var/www/html/git/dickson/news/charity-loans-webinar",
+		"/var/www/html/git/dickson/news/charity-to-me-its-just-being-human",
+		"/var/www/html/git/dickson/news/charityis-a-way-of-building-a-better-world",
+		"/var/www/html/git/dickson/news/charityis-about-making-the-world-tomorrow-a-better-place",
+		"/var/www/html/git/dickson/news/charityis-campaign-results",
+		"/var/www/html/git/dickson/news/charityis-day-five",
+		"/var/www/html/git/dickson/news/charityis-day-four",
+		"/var/www/html/git/dickson/news/charityis-day-three",
+		"/var/www/html/git/dickson/news/charityis-day-two",
+		"/var/www/html/git/dickson/news/charityis-helping-sharing-and-reflecting",
+		"/var/www/html/git/dickson/news/charityis-hour-starts-thursday-24th-at-12pm",
+		"/var/www/html/git/dickson/news/charityis-our-greatest-strength-and-our-biggest-weakness",
+		"/var/www/html/git/dickson/news/charityis-strengthening-the-hands-of-the-change-makers",
+		"/var/www/html/git/dickson/news/charityis-the-difference-5-makes",
+		"/var/www/html/git/dickson/news/chesterfield-fc-community-trust-football-for-good",
+		"/var/www/html/git/dickson/news/christmas-and-new-year-opening-times-2017-2018",
+		"/var/www/html/git/dickson/news/city-life-church-a-hub-for-social-activity",
+		"/var/www/html/git/dickson/news/communications-webinar-harnessing-the-power-of-first-hand-storytelling-7th-sept12-12-45pm",
+		"/var/www/html/git/dickson/news/current-vacancies",
+		"/var/www/html/git/dickson/news/david-tinker",
+		"/var/www/html/git/dickson/news/dear-derby-resident",
+		"/var/www/html/git/dickson/news/defining-charity-through-the-ages-changing-worlds-and-conflicting-ideals",
+		"/var/www/html/git/dickson/news/derelict-farm-buildings-to-be-transformed-into-chocolate-factory-and-horticulture-enterprise",
+		"/var/www/html/git/dickson/news/different-journey-days",
+		"/var/www/html/git/dickson/news/discount-for-churches-and-faith-organisations",
+		"/var/www/html/git/dickson/news/east-lancashire-deaf-society-tools-for-success",
+		"/var/www/html/git/dickson/news/emmaus-village-carlton-a-path-out-of-homelessness",
+		"/var/www/html/git/dickson/news/employment-prospects-boost-for-young-deaf-people",
+		"/var/www/html/git/dickson/news/ethical-bank-appoints-its-first-director-for-scotland",
+		"/var/www/html/git/dickson/news/ethical-bank-invites-savers-to-follow-the-money-and-see-its-social-impact-first-hand",
+		"/var/www/html/git/dickson/news/ethical-bank-prove-it",
+		"/var/www/html/git/dickson/news/ethical-lenders-write-to-the-press-to-raise-awareness-for-responsible-finance"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 132.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Courier 10 Pitch",
+			"Alvin Yuche",
+			"gtm.js",
+			"   <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!--- \n -->\n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n\n                <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!- \n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n\n\n",
+			" <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!--- \n -->\n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />",
+			"\n                <link rel=\"stylesheet\" href=\"//charitybankaccount.com/assets/css/dist/all-4d32264b.css\" />\n\n                  <link rel=\"stylesheet\" href=\"/assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n        \n\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"//charitybankaccount.com/assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"//charitybankaccount.com/assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n\n\n                \n\n                <script src=\"//charitybankaccount.com/assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n\n\n                <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script>\n\n                <link rel=\"icon\" sizes=\"192x192\" href=\"/touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"/touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"/touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"/touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"/touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"/touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"/touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"/favicon.png\" />",
+			"charitybank.org",
+			"https://charitybank.org",
+			"yellow",
+			"Evil Rabbit",
+			"float",
+			">\n",
+			"<div class=\"col-lg-4 paragraph\">\n\t\t\t<p><span class=\"beef\">Beef</span>Two plus two is four, minus one that's three, quick maths, Everyday man's on the block, smoke trees See your girl in the park, that girl is a uckers When the ting went quack-quack-quack, you man were ducking</p>\n\t\t</div>",
+			"html/",
+			"css",
+			"@media",
+			"10",
+			"100",
+			"file",
+			"img",
+			"image",
+			"images",
+			"file",
+			"inputName1",
+			"proof",
+			"file",
+			"#",
+			"#f",
+			"accessToken",
+			"Theme",
+			"token",
+			"Boing",
+			"font-family",
+			"#112E48",
+			"#F3860C",
+			"assets/",
+			"assets/assets/",
+			"assets/assets/ebsite",
+			"ebsite",
+			"website/images",
+			"public/images",
+			"Truly simple payments",
+			"Paystack",
+			"Paystack - Truly Simple Payments",
+			"instafeed",
+			"infinyteam",
+			"infinyteam\n",
+			"password",
+			"stmt",
+			"\npassword_hash",
+			"password_hash",
+			"password",
+			"login",
+			"http://localhost/fbcapital",
+			"http://firstbullioncapital.com",
+			"http://",
+			"http://localhost/fbcapital",
+			"SPRINGFUNDS",
+			"SPRING FUNDS",
+			"rharvest.org",
+			"localhost/fbcapital",
+			"graphik",
+			"caveat",
+			"#393939",
+			"#176FA9",
+			"#eee",
+			"#000099",
+			"$black",
+			"$dark-gray",
+			"$primary-color",
+			"$white",
+			"$medium-gray",
+			"#e6e6e6",
+			"JIVOFUNDS"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Courier New",
+			"Andrew Miracele",
+			"\n                <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!- \n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n",
+			"\n                <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!--- \n -->\n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n\n                <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!- \n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n\n",
+			"\n                <link rel=\"stylesheet\" href=\"assets/css/dist/all-4d32264b.css\" />\n                <link rel=\"stylesheet\" href=\"assets/css/dist/print.css\" type=\"text/css\" media=\"print\" />\n                <link rel=\"alternate\" type=\"application/rss+xml\" href=\"https://charitybankaccount.com/feed.rss\" />\n\n        <!--[if lte IE 9 ]>\n                <link rel=\"stylesheet\" href=\"assets/css/dist/ie-33db3cc7.css\" />\n        <script src=\"assets/js/dist/ie-05389a0c.js\"></script>\n        <![endif]-->\n     \n<!-- \n        <script src=\"assets/js/dist/head-a48c23bc.js\"></script>\n        <script src='https://www.google.com/recaptcha/api.js'></script>\n<!--- \n -->\n        <script src=\"//use.typekit.net/kmp5tcc.js\"></script>\n        <script>try{Typekit.load();}catch(e){}</script> -->\n\n        <link rel=\"icon\" sizes=\"192x192\" href=\"touch-icons/touch-icon-192x192.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"180x180\" href=\"touch-icons/apple-touch-icon-180x180-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"152x152\" href=\"touch-icons/apple-touch-icon-152x152-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"120x120\" href=\"touch-icons/apple-touch-icon-120x120-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"76x76\" href=\"touch-icons/apple-touch-icon-76x76-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" sizes=\"57x57\" href=\"touch-icons/apple-touch-icon-57x57-precomposed.png\">\n        <link rel=\"apple-touch-icon-precomposed\" href=\"touch-icons/apple-touch-icon-precomposed.png\">\n        <link rel=\"shortcut icon\" type=\"image/png\" href=\"favicon.png\" />\n\n",
+			"charitybankaccount.com",
+			"https://charitybankaccount.com",
+			"black",
+			"Alvin Yuche",
+			"",
+			"Graphik",
+			"#2C131F",
+			"#000000",
+			"assets/website/",
+			"assets/ebsite/images",
+			"website/images",
+			"Uneding Cash Flow",
+			"Vintage Earners",
+			"Vintage Earners - Unending Cash Flow",
+			"https://firstbullioncapital.com",
+			"IDC OFFICE",
+			"185.69.54.75/rhf",
+			"212.24.96.133",
+			"#ce0101",
+			"#fff",
+			"#333",
+			"#000",
+			"#333",
+			"#f2f3f3",
+			"#fff",
+			"#e6e6e6",
+			"SUWADEE"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/var/www/html/andrew"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2958579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								396,
+								396
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 151.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
