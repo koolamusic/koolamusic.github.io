@@ -8,7 +8,7 @@ url: http://tecmie.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
-google_analytics: UA-XXXXX-XX
+google_analytics: UA-52368657-4
 repo: http://github.com/tecmie/tecmie.github.io
 disqus_shortname: "hnbloggithub"
 twitter_username: "koolamusic"
