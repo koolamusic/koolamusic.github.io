@@ -1,0 +1,752 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"s"
+			],
+			[
+				"root",
+				"gupnp_root_device_new"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/index.php",
+			"settings":
+			{
+				"buffer_size": 1259,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/user/themes/receptar/css/style.css",
+			"settings":
+			{
+				"buffer_size": 47006,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/var/www/html/scrm/application/config/database.php",
+			"settings":
+			{
+				"buffer_size": 4702,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog/user/themes/receptar/templates/partials/relatedpages.html.twig",
+			"settings":
+			{
+				"buffer_size": 1122,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/user/themes/receptar/templates/default_alt.html.twig",
+			"settings":
+			{
+				"buffer_size": 478,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/user/themes/receptar/templates/item.html.twig",
+			"settings":
+			{
+				"buffer_size": 563,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 159.0,
+		"last_filter": "mini",
+		"selected_items":
+		[
+			[
+				"mini",
+				"HTML Minfier: Minify File (create new)"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: tidy",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"tidy",
+				"HTMLPrettify: Set Keyboard Shortcuts"
+			],
+			[
+				"Package Control:per",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/andrew",
+		"/var/www/html/andrew/blog",
+		"/var/www/html/andrew/blog/user",
+		"/var/www/html/andrew/blog/user/themes",
+		"/var/www/html/andrew/blog/user/themes/receptar",
+		"/var/www/html/andrew/blog/user/themes/receptar/css",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials",
+		"/var/www/html/andrew/css"
+	],
+	"file_history":
+	[
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/item_alt.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials/blog_item_alt.html.twig",
+		"/home/alexare/Documents/chapel/php_code/cham_bank/perfex_crm/application/views/email/reset-password.php",
+		"/home/alexare/Dropbox/Email code/consular.html",
+		"/home/alexare/Documents/akash/codegen_report_akash.php",
+		"/home/alexare/Documents/akash/code_generator.phps",
+		"/home/alexare/Dropbox/Email code/promotion_calendarly.html",
+		"/home/alexare/Dropbox/Email code/gtb.html",
+		"/home/alexare/Documents/akash/codegen.php",
+		"/var/www/html/andrew/css/style.css",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/default_alt.html.twig",
+		"/var/www/html/miracle/skel/rece/user/plugins/taxonomylist/taxonomylist.php",
+		"/var/www/html/wu.php",
+		"/home/alexare/Documents/Email code/gt.html",
+		"/home/alexare/Documents/Email code/Achieving Mindfulness, Relaxation, and Focus in the Holidays.eml",
+		"/var/www/html/pay.html",
+		"/var/www/html/andrew/index.html",
+		"/var/www/html/hostbill/attachments/index.php",
+		"/var/www/html/server/tikrinti.php",
+		"/var/www/html/andrew/blog/user/themes/receptar/languages.yaml",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/error.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/starter.css",
+		"/var/www/html/andrew/blog/user/config/site.yaml",
+		"/home/alexare/Documents/404/404.html",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials/header.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/style.css",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials/base.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/default.html.twig",
+		"/var/www/html/andrew/blog/user/blueprints.yaml",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/colors.css",
+		"/var/www/html/andrew/js/sendemail.js",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/blog.html.twig",
+		"/home/alexare/puppet/svm/www.servermania.com/page223.css",
+		"/var/www/html/hostbill/includes/config.php",
+		"/var/www/html/hostbill/includes/hostbill.php",
+		"/var/www/html/snipe/docker.env",
+		"/var/www/html/snipe/Dockerfile",
+		"/home/alexare/puppet/svm/www.servermania.com/backup-solutions.htm",
+		"/var/www/html/hostbill/includes/general.php",
+		"/home/alexare/Dropbox/Magic/docs/subs/hootsuite.html",
+		"/var/www/html/andrew/blog/cache/twig/4d/4d0e64a701468f7fb11a89a27ae7e2c76da6a662cebbd4a9f81eaacc7e211610.php",
+		"/var/www/html/snipe/config/database.php",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/editor-style.css",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/sidebar/widget.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/slick.css",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/beaver-builder-editor.css",
+		"/var/www/html/andrew/blog/user/themes/receptar/css/customizer.css",
+		"/home/alexare/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/home/alexare/Dropbox/Magic/docs/subs/Your weekly Hootsuite account activity.html",
+		"/home/alexare/Dropbox/Magic/docs/subs/Your weekly Hootsuite account activity.eml",
+		"/var/www/html/andrew/blog/user/themes/receptar/blueprints.yaml",
+		"/var/www/html/andrew/blog/user/themes/receptar/receptar.yaml",
+		"/var/www/html/andrew/blog/user/config/plugins/email.yaml",
+		"/var/www/html/andrew/blog/user/themes/receptar/receptar.php",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials/footer.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/partials/blog_item.html.twig",
+		"/var/www/html/andrew/blog/user/themes/receptar/templates/macros/macros.html.twig",
+		"/var/www/html/andrew/blog/bin/gpm",
+		"/var/www/html/andrew/blog/user/themes/crandrew/receptar.yaml",
+		"/var/www/html/andrew/blog/user/themes/crandrew/languages.yaml",
+		"/var/www/html/andrew/blog/user/themes/crandrew/blueprints.yaml",
+		"/var/www/html/tecmie/andrew/blog/user/themes/crandrew/composer.json",
+		"/var/www/html/scrm/application/migrations/109_version_109.php",
+		"/var/www/html/scrm/application/language/italian/italian_lang.php",
+		"/var/www/html/scrm/application/controllers/Migration.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/invoicehtml.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/login.php",
+		"/var/www/html/scrm/application/models/Invoices_model.php",
+		"/var/www/html/scrm/application/controllers/admin/Reports.php",
+		"/var/www/html/scrm/application/models/Misc_model.php",
+		"/var/www/html/scrm/application/language/portuguese/portuguese_lang.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/register.php",
+		"/var/www/html/scrm/application/language/chinese/chinese_lang.php",
+		"/var/www/html/scrm/application/language/english/english_lang.php",
+		"/var/www/html/scrm/application/controllers/admin/Projects.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/home.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/invoicepdf.php",
+		"/var/www/html/scrm/application/views/authentication/login_admin.php",
+		"/var/www/html/scrm/application/views/themes/perfex/template_parts/navigation.php",
+		"/var/www/html/scrm/application/migrations/110_version_110.php",
+		"/var/www/html/scrm/application/language/spanish/spanish_lang.php",
+		"/home/alexare/kinsch/www.kingsch.at/h/index.html",
+		"/var/www/html/scrm/application/views/admin/home.php",
+		"/var/www/html/scrm/application/config/routes.php",
+		"/var/www/html/scrm/application/controllers/Clients.php",
+		"/var/www/html/scrm/application/controllers/getaways/Paypal.php",
+		"/var/www/html/scrm/application/controllers/getaways/Stripe.php",
+		"/var/www/html/scrm/application/models/Emails_model.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/invoices.php",
+		"/var/www/html/scrm/application/models/Payments_model.php",
+		"/var/www/html/scrm/application/views/admin/invoices/invoice_preview_template.php",
+		"/var/www/html/scrm/application/views/themes/perfex/template_parts/projects/project_invoices.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/stripe_payment.php",
+		"/var/www/html/scrm/application/views/themes/perfex/views/proposals.php",
+		"/var/www/html/scrm/assets/themes/perfex/js/clients.js",
+		"/var/www/html/scrm/assets/themes/perfex/css/style.css",
+		"/var/www/html/tecmie/wootivo/includes/functions.php",
+		"/var/www/html/dbm/application/config/config.php",
+		"/var/www/html/dbm/application/config/database.php",
+		"/var/www/html/scrm/client_home.php",
+		"/var/www/html/scrm/assets/css/bs-overides.css",
+		"/var/www/html/tecmie/wootivo/r/includes/config.php",
+		"/var/www/html/tecmie/wootivo/includes/config.php",
+		"/var/www/html/tecmie/wootivo/install.php",
+		"/var/www/html/tecmie/wootivo/r/install.php",
+		"/var/www/html/gamc/livestream.html",
+		"/var/www/html/gamc/event-blog.html",
+		"/var/www/html/gamc/contact.html",
+		"/var/www/html/gamc/css/jquery.datetimepicker.css",
+		"/var/www/html/gamc/twitteroauth/twitteroauth.php",
+		"/var/www/html/gamc/js/main.js",
+		"/var/www/html/gamc/sendMail.php",
+		"/var/www/html/gamc/docs/css/custom.css",
+		"/var/www/html/gamc/index.html",
+		"/var/www/html/gamc/event.html",
+		"/var/www/html/gamc/js/plugins.js",
+		"/var/www/html/gamc/docs/css/bootstrap.min.css",
+		"/var/www/html/scrm/application/views/admin/goals/goal.php",
+		"/var/www/html/scrm/application/views/admin/expenses/expense.php",
+		"/var/www/html/scrm/application/models/Authentication_model.php",
+		"/var/www/html/scrm/application/models/Currencies_model.php",
+		"/var/www/html/scrm/application/language/italian/italian_num_words_lang.php",
+		"/var/www/html/scrm/application/language/portuguese/portuguese_num_words_lang.php",
+		"/var/www/html/scrm/application/views/themes/perfex/scripts.php",
+		"/var/www/html/scrm/application/language/chinese/chinese_num_words_lang.php",
+		"/var/www/html/scrm/application/views/admin/invoices/invoice_template.php",
+		"/var/www/html/scrm/application/views/admin/expenses/manage.php",
+		"/var/www/html/scrm/application/views/admin/expenses/expense_preview_template.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"/var/www/html/scrm/assets/plugins",
+			"",
+			"/var/www/html/andrew/blog/",
+			"/var/www/html/andrew/blog/user/themes/receptar",
+			"/run/user/1000/gvfs/ftp:host=mindpower.com.ng/public_html/wp-content/themes/mindpower/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"jp-relatedposts",
+			"subject",
+			"alt-content",
+			"alt_content",
+			"font-family",
+			"/",
+			"#000",
+			"hover",
+			".is-singular .entry-media {\n				",
+			".is-singular .entry-media {\n					position: fixed;\n					width: 50%;\n					width: calc( 30% - 5rem );\n					height: 100%;\n					right: 0;\n					top: 0;\n					background-position: 50% 50%;\n					background-size: cover;\n					overflow: hidden;",
+			"entry-title",
+			"hover",
+			"h1",
+			"Rubik",
+			"font-size",
+			"body",
+			"comments-area-wrapper",
+			"blogging about",
+			"blogging about stuff",
+			"\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\n\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\n\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\nsite-description",
+			"\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\n\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\n\"Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart\"\nsite description",
+			"abbr",
+			"abbr\n",
+			"abbr",
+			"Heboo",
+			"heebo",
+			"Alegreya",
+			"pagination",
+			"#3a3c3e",
+			"#e53739",
+			"site-header ",
+			"site-header {",
+			"class=\"secondary\"",
+			"button#menu",
+			"site-branding a",
+			"Accounts",
+			"Account",
+			"Accounts",
+			"Projects",
+			"projects",
+			"Accounts",
+			"Account",
+			"Accounts",
+			"Estimates",
+			"Accounts",
+			"clients/projects",
+			"Estimates",
+			"Invoices",
+			"Accounts",
+			"Projects",
+			"subtotal",
+			"Paid",
+			"Bill To",
+			"viewinvoice",
+			"clients/register",
+			".title",
+			"Brandon",
+			"Now",
+			"Futura",
+			"Futur",
+			"Campton",
+			"font-family:",
+			"Brandon",
+			"Campton",
+			"Source Sans Pro",
+			"#5ab4e6",
+			"#735cb0",
+			"quick invoices info",
+			"quick invoicesinfo",
+			"quick invoice info",
+			"format_money",
+			"invoices",
+			"invoices_total",
+			"stats-top",
+			"stats",
+			"view_stats_tooltip",
+			"stats-top",
+			"#stats-top",
+			"overdue",
+			"Overdue",
+			"Invoices",
+			"invoice",
+			"Invoice",
+			"Invoices",
+			"Sales",
+			"Overdue",
+			"Estimates",
+			"Invoices",
+			"border-right",
+			"#top_search_button button",
+			"#eef2f4",
+			"#7D838B",
+			".navbar-default",
+			"open sans",
+			"open",
+			"#4B5158",
+			"http://fotechsms.com",
+			"Randing",
+			"Yanamantrav",
+			"p.quote",
+			"content",
+			"wordrotator",
+			"wordrotator_",
+			"wordrotator_words",
+			"wordrotator",
+			"company-desc",
+			"$('.services .owl-carousel').owlCarousel({\n    items:3,\n    itemsDesktopSmall: [1024,3],\n    itemsTablet: [768,3],\n    itemsMobile: [479,1],\n    navigation:false,\n    pagination:true\n});",
+			"document.ready",
+			"#f7001f",
+			"url",
+			"Josefin Sans",
+			"Montserrat",
+			" ",
+			"-",
+			",",
+			"WebMan Design",
+			"Designed and developed by WebMan Design",
+			"Designed and developed by WebMan Design, Ported By Grav Team",
+			"webman",
+			"#e53739",
+			"open san",
+			"open",
+			"#3ea2e0",
+			".com",
+			"@",
+			"#3ea2e0",
+			"http://localhost/Royal-Harvest",
+			"http://localhost/rharvest"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Poppins",
+			"#000000",
+			"#f8ca08",
+			"Accounts",
+			"viewstatement",
+			"Brandon Grotesque",
+			"Brandon",
+			"Campton",
+			"#24282b",
+			"#ee3900",
+			"overdraft",
+			"Overdraft",
+			"statement",
+			"Transaction",
+			"#fff6bf",
+			"#572600",
+			"http://sms.tecmie.com",
+			"Space Mono",
+			"#000000",
+			"Poppins",
+			"Yanamantrav",
+			"",
+			" -",
+			" ",
+			"-",
+			"Andrew Miracle",
+			"#f8ca08",
+			"#680111",
+			"http://23.236.143.150",
+			"stylvo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1259,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": -0.0,
+						"translation.y": 833.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/user/themes/receptar/css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 47006,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45981,
+								45981
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 38046.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/html/scrm/application/config/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4702,
+								4702
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1043.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "blog/user/themes/receptar/templates/partials/relatedpages.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1122,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								463,
+								463
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "blog/user/themes/receptar/templates/default_alt.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 478,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "blog/user/themes/receptar/templates/item.html.twig",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 563,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP-Twig/Syntaxes/HTML (Twig).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Ruby/Ruby.sublime-build",
+	"project": "andrew.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
