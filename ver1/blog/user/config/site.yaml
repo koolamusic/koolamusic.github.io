@@ -1,0 +1,55 @@
+title: Andrew Miracle's Blog 
+description: "My Personal Journal."
+author:
+  name: Andrew Miracle
+  email: 'me@andrewmiracle.com'
+  url: http://tecmie.com/
+  logo:
+  gravatar: me@andrewmiracle.com
+  description: "Andrew Miracle is one of the most diverse and multi-faceted personalities in this world. Happy and fun at heart"
+blog:
+  route: ''
+metadata:
+    description: 'Andrew Miracle is one of the most diverse and multi-faceted personalities in this world'
+taxonomies: [category,tag,month]
+
+summary:
+  size: 100
+  striptags: true
+
+  logo: box.png 
+# Image must be uploaded to your theme /images/ directory.
+global_featured_image: featured.jpeg
+
+social:
+
+  - text: home
+    url: "https://andrewmiracle.com"
+  - text: facebook
+    url: "https://www.facebook.com/coolstepperz"
+  - text: twitter
+    url: "https://www.twitter.com/tecmie"
+  - text: google-plus
+    url: "https://plus.google.com/107532575703728924838"
+  - text: linkedin
+    url: "https://www.linkedin.com/in/salzzyandrewmiracle"
+  - text: home
+    url: "http://www.tecmie.com"
+
+slider:
+  - image: mimi.png
+    title: Hello World!
+    url: ""
+  - image: appmbile.jpg
+ 
+    url: ""
+
+  - image: kll.jpg
+    title: 
+    url: ""
+
+menu:
+
+
+# Copyright
+copyright: Designed and developed by <a title="Andrew Miracle" rel="dofollow" target="_blank" href="http://jarmav.com/"><strong>jarmav</strong></a>

@@ -1,0 +1,11 @@
+email: me@andrewmiracle.com
+fullname: 'Andrew Miracle'
+title: Ed-u
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$0j4zPPSxdUtlxJHiHGrxg..Cwk4SD.IOzv4052OhTY/4nYKPizJjG

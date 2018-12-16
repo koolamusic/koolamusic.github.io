@@ -1,0 +1,30 @@
+enabled: true
+active: true
+provider: disqus
+providers:
+  disqus:
+    shortname: andrewmiracle
+    show_count: true
+    language: EN
+    default_lang: en
+  facebook:
+    app_id: '560892064073878'
+    num_posts: 5
+    colorscheme: light
+    order_by: social
+    width: 100%
+    appId: ''
+    lang: en_US
+  googleplus:
+    show_count: false
+    width: 100%
+  intensedebate:
+    acct: ''
+  muut:
+    channel: General
+    widget: false
+    show_online: false
+    show_title: false
+    upload: false
+    share: true
+    lang: en
