@@ -1,0 +1,3 @@
+name: Andrew Miracle
+email: me@andrewmiracle.com
+message: Error receiving payment with transaction ID as stated in document
