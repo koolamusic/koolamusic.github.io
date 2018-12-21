@@ -1,0 +1,59 @@
+
+# SEO settings
+title: "Andrew "
+title2: "Miracle" # default: ""
+description: "Andrew Miracle is one of the most diverse and multi-faceted personalities in this universe"
+keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, andrew miracle, web developer, web designer"
+url: http://tecmie.github.io/ # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+google_analytics: UA-52368657-4
+repo: http://github.com/tecmie/tecmie.github.io
+disqus_shortname: "hnbloggithub"
+twitter_username: "koolamusic"
+comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Andrew Miracle"
+  job      : "Tech Entrepreneur"
+  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
+  thumb    : /images/author.jpg
+  email    : me@andrewmiracle.com
+  url      : http://andrewmiracle.com
+  github   : http://github.com/tecmie
+  twitter  : http://twitter.com/koolamusic
+  facebook : https://www.facebook.com/coolstepperz
+  linkedin : http://linkedin.com/in/salzzyandrewmiracle
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@koolamusic"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
