@@ -1,59 +1,73 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-# SEO settings
-title: "Andrew "
-title2: "Miracle" # default: ""
-description: "Andrew Miracle is one of the most diverse and multi-faceted personalities in this universe"
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, andrew miracle, web developer, web designer"
-url: http://tecmie.github.io/ # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "Site title"
+description: "A site description"
+lang: "en" # or fr, de, es etc.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-google_analytics: UA-52368657-4
-repo: http://github.com/tecmie/tecmie.github.io
-disqus_shortname: "hnbloggithub"
-twitter_username: "koolamusic"
-comments: true
+# Include styles inline or link to css file?
+# This has to be set to css: inline for the theme to inline styles
+# Set it to anything else, or remove it, to link to /css/style.class
+
+css: inline
+
 
 # Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
+markdown: kramdown
 
-source: ./
-destination: ./_site
-
-# Sass configuration
 sass:
-  sass_dir: assets/scss
-  style: compressed # expanded
+  style: compressed
 
-# Author settings
-author:
-  name     : "Andrew Miracle"
-  job      : "Tech Entrepreneur"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
-  thumb    : /images/author.jpg
-  email    : me@andrewmiracle.com
-  url      : http://andrewmiracle.com
-  github   : http://github.com/tecmie
-  twitter  : http://twitter.com/koolamusic
-  facebook : https://www.facebook.com/coolstepperz
-  linkedin : http://linkedin.com/in/salzzyandrewmiracle
 
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@koolamusic"
+# Defaults
 
-gems:
-  - bourbon
-  - jekyll-paginate
+# Enable is_homepost test for posts
+# Enable is_page test for pages
+# Enable is_home test for home page
+# Use {% if page.is_post %} etc.
 
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
+defaults:
+-
+    scope:
+        path: "/"      # empty string for all files
+    values:
+        is_home: true
+-
+    scope:
+        path: ""
+        type: posts
+    values:
+        is_post: true
+-
+    scope:
+        path: ""
+        type: pages
+    values:
+        is_page: true
 
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+- Gemfile
+- Gemfile.lock
+- node_modules
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

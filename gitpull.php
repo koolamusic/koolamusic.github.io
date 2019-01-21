@@ -1,2 +1,0 @@
-<?php `git pull`;
-?>

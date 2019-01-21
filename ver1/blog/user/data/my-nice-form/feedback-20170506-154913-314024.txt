@@ -1,5 +1,0 @@
-
-name: andrew
-email: hello@jarmav.com
-message: http://paste.ubuntu.com/24524006/
-

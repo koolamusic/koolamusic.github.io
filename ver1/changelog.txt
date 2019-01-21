@@ -1,9 +1,0 @@
-- created new directory for blog template
-- using new site as html homepage
-- grav system on secondary domain /blog
-- grav skeleton used "receptar"
-
-
-
------ to update and integrate main template in grav
------ using multiple themes in grav

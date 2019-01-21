@@ -1,3 +1,0 @@
-# Howdy
-
-This keeps a static introduction page for the time being
