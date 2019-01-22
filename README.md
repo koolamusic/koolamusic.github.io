@@ -83,3 +83,8 @@ Because the SASS files refer to each other and `_c.scss` may refer to `_variable
 - [leonpaternoster.com](https://www.leonpaternoster.com)
 - [Micro.blog](https://micro.blog/leonp)
 - [Twitter](https://www.mobile.twitter.com/leonpaternoster)
+
+
+# TODO 
+- cleanup XML Feed Andrew Miracle URL
+- check for other leon mentions and fix
