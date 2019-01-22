@@ -1,0 +1,15 @@
+<div class="c-hyphens c-p-mb1">
+
+    {% for post in posts %}
+
+    <article class="pb3 pb4-ns c-linky-underline c-linky-visited c-hyphens">
+
+        {{ post.content }}
+
+        <p class="f6 gray c-sans-serif"><a href="{{ post.url }}"><time>{{ post.date | date: "%b %-d,  %Y" }}</time></a></p>
+
+    </article>
+
+    {% endfor %}
+
+</div>

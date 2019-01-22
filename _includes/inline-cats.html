@@ -1,0 +1,15 @@
+<div class="mb4 bb b--moon-gray c-sans-serif">
+
+    <p class="mt0 mb1 f7">Filter posts by category:</p>
+
+    <ul class="mh0 mb2 ph0 mt0 list c-linky-visited">
+
+    {% for cat in site.data.cats %}
+
+        <li class="ml0 pl0 dib mr2 mr3-ns"><a href="/posts/{{ cat.slug }}/" class="pv1">{{ cat.name }}</a></li>
+
+    {% endfor %}
+
+    </ul>
+
+</div>

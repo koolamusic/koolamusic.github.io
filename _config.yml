@@ -13,17 +13,26 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Site title"
-description: "A site description"
+
 lang: "en" # or fr, de, es etc.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+title: 'Andrew Miracle'
+email: me@andrewmiracle.com
+description: "Fullstack Software Developer, Musician, Product Designer, Writer, Speaker, Entrepreneur. Work and personal blog."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://www.andrewmiracle.com" # the base hostname & protocol for your site
+lead: "Blogging about making code, music, work, life, business &amp; digital ecosystem"
+
+# Build settings
+permalink: /posts/:title/
+
+# Time
+timezone: Africa/Lagos
+
 
 # Include styles inline or link to css file?
 # This has to be set to css: inline for the theme to inline styles
 # Set it to anything else, or remove it, to link to /css/style.class
-
-css: inline
+css: external
 
 
 # Build settings
@@ -52,12 +61,23 @@ defaults:
         type: posts
     values:
         is_post: true
+        layout: post
 -
     scope:
         path: ""
         type: pages
     values:
         is_page: true
+
+
+# webmentions
+
+webmentions:
+  pause_lookups: true
+  username: www.andrewmiracle.com
+  legacy_domains:
+    - http://andrewmiracle.com
+    - http://www.andrewmiracle.com
 
 
 # Exclude from processing.
@@ -71,3 +91,5 @@ exclude:
 - vendor/cache/
 - vendor/gems/
 - vendor/ruby/
+
+include: [_redirects]

@@ -1,0 +1,27 @@
+<h2 class="f4 c-lh-title mv2" id="commentary">Add a comment</h2>
+
+{% unless site.data.comments.[page.slug] %}
+
+<p class="mt0 mb2 f6">Yours will be the first. Thanks <span role="img" aria-label="Thumbs up">👍</span></p>
+
+{% endunless %}
+
+<form method="post" action="https://api.staticman.net/v2/entry/leonp/leon2/master/comments" class="c-linky-visited c-linky-underline pa2 pa3-ns bg-light-gray ba b--moon-gray">
+
+    <input name="options[redirect]" hidden type="hidden" value="{{ site.url }}/comment-received/">
+    <input name="options[slug]" hidden type="hidden" value="{{ page.slug }}">
+
+    <label class="db mb1 f6" for="name">Name</label>
+    <input class="c-sans-serif db w-100 pa2 mb3 ba b--moon-gray" required name="fields[name]" id="name" type="text">
+
+    <label class="db mb1 f6" for="message">Comment (use <a href="https://www.markdownguide.org/cheat-sheet">Markdown</a> for formatting, <abbr title="HyperText Markup Language">HTML</abbr> will be removed)</label>
+    <textarea class="c-sans-serif db vh-50 w-100 pa2 mb3 ba b--moon-gray" required name="fields[message]" id="message"></textarea>
+
+    <label class="db mb1 f6" for="hp">Fill this in to get an error message</label>
+    <input class="c-sans-serif db w-100 pa2 mb3 ba b--moon-gray" name="fields[hp]" id="hp" type="text">
+
+    <button class="c-sans-serif pa2 bg-dark-blue hover-bg-blue white ba- b--light-gray pointer" type="submit">Add comment</button>
+
+    <!-- <p class="mb0 mt1 f6"><strong>Privacy note:</strong> If you supply your email it will be encrypted. I'll never share it with anyone else or use it for anything other than sending notifications.</p> -->
+
+</form>
