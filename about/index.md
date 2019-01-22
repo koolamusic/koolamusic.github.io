@@ -12,7 +12,7 @@ hyphens: true
 
 
 
-<p>I am Andrew, a Full-stack Software Engineer with a solid background in Mobile and Web Landscapes, an Agile and SCRUM Project Master, Software Architect, Design Creative and Founder of @Tecmie, a platforms solution architect for small and enterprise organizations including Education, Business, Retail and Government.</p>
+<p>I am Andrew, a Full-stack Software Engineer with a solid background in Mobile and Web Landscapes, an Agile and SCRUM Project Master, Software Architect, Design Creative and Founder of Tecmie, a platforms solution architect for small and enterprise organizations including Education, Business, Retail and Government.</p>
 Our strengths are in helping Startups prototype, test and launch their MVP with a clear growth and development strategy on their Tech and Design.
 
  
