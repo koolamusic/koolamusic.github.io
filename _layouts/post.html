@@ -1,0 +1,44 @@
+{% include header.html %}
+
+{% for cat in site.data.cats %}
+
+    {% if cat.slug == page.category %}
+
+        {% assign slug = cat.slug %}
+        {% assign category = cat.name %}
+
+    {% endif %}
+
+{% endfor %}
+
+<article class="h-entry">
+
+    <header class="c-linky-visited">
+
+        <p class="mt0 mb2 f6 mid-gray"><time class="dt-published" datetime="{{ page.date | date: "%Y-%m-%d" }}">{{ page.date | date: "%b %-d, %Y" }}</time> / <a href="#commentary"><span role="img" aria-label="A pen in hand">✍️</span> Comments</a> / {% if page.note %}<a href="/posts/notes/">Notes</a>{% else %}Filed under <a href="/posts/{{ slug }}">{{ category }}</a>{% endif %}</p>
+
+        <h1 class="p-name mt0 c-lh-title mb3 f2 f1-l">{{ page.title }}</h1>
+
+        <span class="dib w3 mb3 bb bw3 b--dark-red"></span>
+
+    </header>
+
+    <div class="e-content c-prose-headings c-hyphens c-linky-visited c-linky-underline entry-content pb3">
+
+        {{ content}}
+
+        <p class="f6 mid-gray mt4 c-sans-serif">— <a href="/" class="p-author" rel="author">Andrew Miracle</a></p>
+
+    </div>
+
+    <footer class="bt b--light-gray">
+
+        {% include comment-form.html %}
+
+        {% include comments.html %}
+
+    </footer>
+
+</article>
+
+{% include footer.html %}

@@ -1,0 +1,17 @@
+{% include header.html %}
+
+<article class="pb4">
+
+    <h1 class="mt0 c-lh-title mb3 f2 f1-l">{% if page.display-title %}{{ page.display-title }}{% else %}{{ page.title }}{% endif %}</h1>
+
+    <span class="dib w3 mb3 bb bw3 b--dark-red"></span>
+
+    <div class="{% if page.visited-links %}c-linky-visited {% endif %}{% if page.prose-headings %}c-prose-headings {% endif %}{% if page.underlined-links %}c-linky-underline {% endif %}{% if page.hyphens %}c-hyphens {% endif %}">
+
+        {{ content}}
+
+    </div>
+
+</article>
+
+{% include footer.html %}

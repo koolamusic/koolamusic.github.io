@@ -1,0 +1,5 @@
+_id: ff4ec890-b022-11e8-9ee0-558513fcc2ac
+name: Leon
+message: "I'm testing strip_html\r\n\r\n`<script src=\"http://code.jquery.com/jquery-latest.min.js\" >`\r\n\r\nAre the <strong>paragraphs</strong> retained?\r\n\r\nExpect [links](https://www.leonpaternoster.com) are lost."
+hp: ''
+date: '2018-09-04T09:14:59.764Z'

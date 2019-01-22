@@ -3,4 +3,19 @@
 
 // Better sans-serif stack putting Segoe before Arial on Windows
 // We'll refer to this variable in _c.scss
-$c-sans-serif: -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', helvetica, ubuntu, roboto, noto, sans-serif;
+$c-sans-serif: -apple-system, BlinkMacSystemFont, 'segoe ui', 'helvetica neue', helvetica, 'Inter UI', 'IBM Plex Sans', ubuntu, roboto, noto, sans-serif;
+
+$c-font-size: 100%;
+$c-font-size-m: 112.5%;
+$c-font-size-l: 118.75%;
+
+$c-lh-title: 1.2;
+
+$c-lh-copy: 1.35;
+$c-lh-copy-m: 1.45;
+$c-lh-copy-l: 1.5;
+
+$c-wrapper: 40em;
+
+$c-beige: #F8F8F1;
+$highlight: #E7040F;

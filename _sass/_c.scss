@@ -12,6 +12,219 @@
     font-family: $c-sans-serif;
 }
 
+.c-lh-copy {
+    line-height: $c-lh-copy;
+    @media #{$breakpoint-medium} {
+        line-height: $c-lh-copy-m;
+    }
+    @media #{$breakpoint-large} {
+        line-height: $c-lh-copy-l;
+    }
+}
+
+.c-font-size {
+    font-size: $c-font-size;
+    @media #{$breakpoint-medium} {
+        font-size: $c-font-size-m;
+    }
+    @media #{$breakpoint-large} {
+        font-size: $c-font-size-l;
+    }
+}
+
+.c-lh-title {
+    line-height: $c-lh-title;
+}
+
+.c-wrapper {
+    max-width: $c-wrapper;
+}
+
+.c-beige {
+    color: $c-beige;
+}
+
+.c-bg-beige {
+    background-color: $c-beige;
+}
+
+.c-icon {
+	color: transparent;
+	text-shadow: 0 0 $highlight;
+}
+
+// Prose styling
+
+.c-prose-headings h1,
+.c-prose-headings h2,
+.c-prose-headings h3,
+.c-prose-headings h4,
+.c-prose-headings h5,
+.c-prose-headings h6,
+.c-prose-headings dt {
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+    line-height: $c-lh-title;
+    font-family: $c-sans-serif;
+}
+
+.c-prose-headings h1 + *,
+.c-prose-headings h2 + *,
+.c-prose-headings h3 + *,
+.c-prose-headings h4 + *,
+.c-prose-headings h5 + *,
+.c-prose-headings h6 + *,
+.c-prose-headings dt + * {
+    margin-top: 0;
+}
+
+.c-prose-headings h1,
+.c-prose-headings h2 {
+    font-size: 1.5rem;
+}
+
+.c-prose-headings h3 {
+    font-size: 1.25rem;
+}
+
+.c-prose-headings h4,
+.c-prose-headings h5,
+.c-prose-headings h6 {
+    font-size: 1rem;
+}
+
+.c-hyphens {
+    hyphens: auto;
+    -moz-hyphens: auto;
+    -webkit-hyphens: auto;
+}
+
+.c-linky-underline a {
+    text-decoration: underline;
+}
+
+.c-linky-visited a:link {
+    color: #00449E;
+}
+
+.c-linky-visited a:visited {
+    color: #357EDD;
+}
+
+.c-linky-visited a:hover,
+.c-linky-visited a:active {
+    color: $highlight;
+}
+
+.c-no-top-margin * {
+    margin-top: 0 !important;
+}
+
+.vid,
+.constrain {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 1.5rem;
+}
+
+.vid iframe,
+.vid object,
+.vid embed,
+.constrain iframe,
+.constrain object,
+.constrain embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+
+// More defaults
+
+a {
+    text-decoration: none;
+}
+
+blockquote {
+    font-size: 0.875rem;
+    margin-left: 1rem;
+    padding-left: 0.75rem;
+    border-left: 0.25rem solid $highlight;
+}
+
+abbr {
+    cursor: help;
+}
+
+figure {
+    margin: auto 0;
+}
+
+code {
+    font-size: 0.875em;
+    padding: 0.1em 0.25em;
+    background-color: #EFEFEF;
+}
+
+pre {
+    overflow: auto;
+    padding: 1em;
+    background-color: #000;
+    color: #EFEFEF;
+}
+
+pre code {
+    padding: 0;
+    background-color: inherit;
+}
+
+hr {
+    overflow: visible; /* For IE */
+    padding: 0 0 1.5rem 0;
+    border: none;
+    border-top: medium double #CCC;
+    text-align: center;
+}
+
+hr:after {
+    content: "§";
+    display: inline-block;
+    position: relative;
+    top: -0.7em;
+    font-size: 1.5em;
+    padding: 0 0.25rem 1.5rem 0.25rem;
+    background: #FFF;
+    color: $highlight;
+}
+
+table {
+    min-width: 100%;
+    overflow: auto;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+thead {
+    text-align: left;
+}
+
+th {
+    padding: 0.25rem;
+    border-bottom: 1px solid #333;
+    margin: 0;
+}
+
+td {
+    padding: 0.25rem;
+    border-bottom: 1px solid #CCC;
+    margin: 0;
+}
+
 
 // Some empty media queries
 // Use these if you want to make responsive custom classes
@@ -27,3 +240,69 @@
 
 
 } // End the enclosing screen/projection media query
+
+
+
+// Fonts
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("/fonts/plex-sans/IBMPlexSans-Regular-Latin1.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: italic;
+  font-weight: normal;
+  font-display: auto;
+  src: url("/fonts/plex-sans/IBMPlexSans-Italic-Latin1.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "IBM Plex Sans";
+  font-style: normal;
+  font-weight: bold;
+  font-display: auto;
+  src: url("/fonts/plex-sans/IBMPlexSans-Bold-Latin1.woff2") format("woff2");
+}
+
+
+// Print styles
+
+@media print {
+
+* {
+  background-color: white !important;
+  color: black !important;
+  font-family: $c-sans-serif;
+  line-height: 1.375;
+}
+
+.measure {
+  width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  line-height: 1.1;
+  margin-top: 2em;
+}
+
+img {
+  max-width: 100% !important;
+  height: auto !important;
+}
+
+.c-no-print {
+  display: none;
+}
+
+
+}
