@@ -6,7 +6,7 @@ is_home: true
 order: 1
 ---
 
-I am Andrew, a Full-stack Software Engineer with a solid background in Mobile and Web Landscapes, an Agile and SCRUM Project Master, Software Architect, Design Creative and Founder of @Tecmie, a platforms solution architect for small and enterprise organizations including Education, Business, Retail and Government.
+I am Andrew Miracle a diverse and multi faceted entity embodied into being, i craft intelligence through words, visuals and audio using music, technology and art, when not playing the piano i help companies manage their software projects
 
 <h2 class="f5 normal mt4 gray pb1 bb b--light-gray c-sans-serif">Latest blog posts</h2>
 
