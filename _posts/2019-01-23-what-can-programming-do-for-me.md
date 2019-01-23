@@ -2,6 +2,7 @@
 layout: post
 title: What can a course in programming to do you ?
 category: thinking
+image: atom.jpg
 ---
 
 <blockquote>Have you considered learning to code</blockquote>
