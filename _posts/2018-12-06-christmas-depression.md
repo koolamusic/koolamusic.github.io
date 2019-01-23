@@ -8,7 +8,7 @@ category: thinking
 
 You may want to run away and hide from the noisy busyness and the social obligations. Or you may want to lash out at the insensitive and uncaring people who exhort you to “Cheer up!” Or maybe you just want to drown your sorrows with carefree eating, drinking or careless TV-watching. But none of these options—running out, lashing out, or pigging out—will improve your depression. Indeed, they will only make it worse.
 
-But is you would lemme propose a better way
+But if you would let me propose a better way
 
 *Pray*
 
