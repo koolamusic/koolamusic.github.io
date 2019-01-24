@@ -1,0 +1,3 @@
+- Speak well
+
+- Associate
