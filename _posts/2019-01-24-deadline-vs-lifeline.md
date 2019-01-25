@@ -24,8 +24,8 @@ This comparison will help you find out
 
 
 This makes me reflect between Mourinho and Pep Guardiola, two wonderful personalites, winners they are, however I would categorize one as a Lifeline person and another one as a deadline person
+
 In the startup world, you require a mix of both, roll out a feature immediately, so that the VC and users would be happy, experiencing the potential of that feature, then gradually iterating through the process to optimize and fine tune delivery and results. 
 
-Who are you ? 
-Deadline or Lifeline ?
+Who are you ? Deadline : Lifeline
 
