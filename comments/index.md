@@ -19,6 +19,7 @@ We’re going to get into the thick of a lot of heated discussions and that’s 
  So, remember to avoid:
 
     name-calling
+    culture or race attacks
     ad hominem attacks
     Responding to a post’s tone instead of its actual content.
     knee-jerk contradiction
