@@ -62,6 +62,8 @@ defaults:
     values:
         is_post: true
         layout: post
+        # use disqus comments
+        comments: true
 -
     scope:
         path: ""

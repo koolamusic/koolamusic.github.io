@@ -36,9 +36,12 @@
 
     <footer class="bt b--light-gray">
 
-        {% include comment-form.html %}
+        <!-- Use Disqus Comments -->
+            {% if page.comments %}
 
-        {% include comments.html %}
+            {% include disqus.html %}
+            
+            {% endif %}
 
     </footer>
 
