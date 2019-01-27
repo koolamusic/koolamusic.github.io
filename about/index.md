@@ -25,13 +25,12 @@ I believe in continous improvement, constantly learning to thrive and contribute
 
 In past two years I have consistently absorbed myself into learning ecosystems, that push further beyond technology, business, and people development, I personally have a very strong desire and passion to build technology solutions, and I believe in the depth of knowledge available on the internet.
 
-I live the Life of a dreamer, create immersive experiences with music and technology and try to always stay happy and positive
-Sometimes it looks like i have a crazy lifestyle, but I am proud of everything that I am and will become. 
+I live the Life of a dreamer, create immersive experiences with music and technology and try to always stay happy and positive Sometimes it looks like i have a crazy lifestyle, but I am proud of everything that I am and will become. 
 
 
 <div class="pt3"><hr></div>
 
-<p>I've written a blog since 2012 <a href="http://topinfoz.blogspot.com/">See my earliest Editions</a>. . Unsurprisingly, over the years what I've written about has changed, reflecting whatever I've been interested in at the time. Sometimes I'll write about something that just grabs my attention. I'll maintain this website as my personal journal from now on</p>
+<p>I've written a blog since 2012 <a href="http://topinfoz.blogspot.com/">See my earliest Editions</a>. . Unsurprisingly, over the years what I've written about has changed, reflecting whatever I've been interested in at the time. Sometimes I'll write about something that just grabs my attention, other times I may make a lot of reference to food, since my friends at <a href="https://twitter.com/LearnFactoryNG">LearnFactory</a> has adorned me with the title 'Food for Africa' <blockquote>Hopefully I would solve the hunger problem of rural communities in Africa</blockquote>. I'll maintain this website as my personal journal from now on</p>
 
 <p>Subscribe/contact me if you have any questions:</p>
 
