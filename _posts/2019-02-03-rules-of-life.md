@@ -1,5 +1,5 @@
 ---
-title: 7 Rules for Living
+title: 7 Valuable guides for Living
 layout: post
 category: thinking
 ---
