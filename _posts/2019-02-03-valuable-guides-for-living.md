@@ -2,7 +2,7 @@
 layout: post
 title: 7 Valuable guides for Living
 category: thinking
-image: atom.jpg
+image: andrew.jpg
 ---
 
 
