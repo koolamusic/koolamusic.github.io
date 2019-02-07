@@ -3,13 +3,13 @@ layout: empty
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title type="text" xml:lang="en">Leon Paternoster &#8211; Libraries</title>
-    <link type="application/atom+xml" href="https://www.leonpaternoster.com.com/posts/libraries/feed/" rel="self"/>
-    <link type="text" href="https://www.leonpaternoster.com/posts/libraries" rel="alternate"/>
+    <title type="text" xml:lang="en">Andrew Miracle &#8211; Libraries</title>
+    <link type="application/atom+xml" href="https://andrewmiracle.com.com/posts/libraries/feed/" rel="self"/>
+    <link type="text" href="https://andrewmiracle.com/posts/libraries" rel="alternate"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>https://www.leonpaternoster.com</id>
-    <author><name>Leon Paternoster</name></author>
-    <rights>Copyright (c) Leon Paternoster</rights>
+    <id>https://andrewmiracle.com</id>
+    <author><name>Andrew Miracle</name></author>
+    <rights>Copyright (c) Andrew Miracle</rights>
 
     {% assign libraries_posts = site.posts | where: "category", "libraries" %}
 
@@ -19,9 +19,9 @@ layout: empty
 
             <entry>
                 <title>{{ post.title }}</title>
-                <link href="https://www.leonpaternoster.com{{ post.url }}"/>
+                <link href="https://andrewmiracle.com{{ post.url }}"/>
                 <updated>{{ post.date | date_to_xmlschema }}</updated>
-                <id>https://www.leonpaternoster.com{{ post.url }}/</id>
+                <id>https://andrewmiracle.com{{ post.url }}/</id>
                 <content type="html">{{ post.content | xml_escape }}</content>
             </entry>
 

@@ -62,7 +62,7 @@ comments:
     # Mailgun domain (encrypted)
     # domain: "https://app.mailgun.com/app/domains/sandbox2c458dfd78ed4878afe47ae0d1b8a491.mailgun.org"
 
-    # allowedOrigins: ["localhost", "leonpaternoster.com"]
+    # allowedOrigins: ["localhost", "andrewmiracle.com"]
 
   # (*) REQUIRED
   #
