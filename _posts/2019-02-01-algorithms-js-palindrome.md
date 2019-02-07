@@ -26,12 +26,28 @@ Given a string, return true if the string is a palindrome or false if it is not.
 
 ```js
 
-function palindrome(str) {
+function isPalindrome(str) {
   return str.split('').reverse().join('') === str ? true : false
 }
 
 ```
 This method uses Javascripts inbuilt string and array methods, to split a string into an array like we did in our reverse string algorithm earlier, reverse it and then join it back, this then returns TRUE or FALSE if the output is the same as input when returned.
+
+Let's take a look at our function closely
+```js
+
+isPalindrome('adb')
+
+// our function below
+function isPalindrome(str) {
+  let stringToArray = str.split("") // output here is an array ['a','d','b']
+  let stringToArrayReversed = stringToArray.reverse("") // the output here is a reversed array of  ['b','d','a']
+  let reversedString = stringToArrayReversed.join(""); // The array join method would join the array into a string "bda"
+  return (reversedString === str) ? true : false  // without the True or False Statement our expression will return and implicit True or False when using the === operator if str and our reversedString are the same. in this case 
+  // 'adb' and 'bda' are not the same and would return false.
+}
+
+```
 
 <!-- ### Using the Array.protoType.every Method
 
