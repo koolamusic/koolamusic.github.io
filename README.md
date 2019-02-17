@@ -86,5 +86,9 @@ Because the SASS files refer to each other and `_c.scss` may refer to `_variable
 
 
 # TODO 
-- cleanup XML Feed Andrew Miracle URL
-- check for other leon mentions and fix
+ - [ ] Font-face seriff typography for paragraphs
+ - [ ] OG Meta Images == Social Media
+ - [ ] Fullwidth Images
+ - [ ] More Attractive Homepage
+ - [ ] Bill Gates | Julia Inspired Hompage and Nav Menu
+

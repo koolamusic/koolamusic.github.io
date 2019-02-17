@@ -7,10 +7,12 @@
         {% if page.is_home %}
         <title>{{ site.title }}</title>
         <meta name="description" content="{{ site.description }}">
+        <meta name="og:image" content="https://andrewmiracle.com/images/andrew.jpg" />
         {% elsif page.note %}
         <title>{{ page.excerpt | strip_html | truncatewords: 10 }}&hellip; &#8211; {{ site.title }}</title>
         {% else %}
         <title>{{ page.title }} &#8211; {{ site.title }}</title>
+        <meta name="og:image" content="https://andrewmiracle.com/images/andrew.jpg" />
         {% endif %}
 
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -24,15 +26,21 @@
         <meta name="twitter:card" content="summary" />
         <meta name="twitter:site" content="@koolamusic" />
         <meta name="twitter:title" content="{{ page.title }}" />
+        <meta name="og:title" content="{{ page.title }}" />
         {% if page.description %}
         <meta name="twitter:description" content="{{ page.description }}" />
+        <meta name="og:description" content="{{ page.description }}" />
         {% else %}
         <meta name="twitter:description" content="{{ page.excerpt  | strip_html }}" />
+        <meta name="og:description" content="{{ page.excerpt  | strip_html }}" />
         {% endif %}
+
         {% if page.img %}
         <meta name="twitter:image" content="https://www.andrewmiracle.com/images/{{ page.img }}" />
+        <meta name="og:image" content="https://www.andrewmiracle.com/images/{{ page.img }}" />
         <meta name="twitter:image:alt" content="{{ page.alt }}" />
         {% endif %}
+
         {% endif %}
 
         {% if page.is_post %}
@@ -40,7 +48,10 @@
         <meta name="DC.Title" content="{{ page.title}}">
         <meta name="DC.Creator" content="Andrew Miracle">
         <meta name="DC.Subject" content="{% if page.subject %}{{ page.subject }}{% else %}{{ page.category | capitalize }}{% endif %}">
-        {% if page.description %}<meta name="DC.Description" content="{{ page.description }}">{% endif %}
+        {% if page.description %}
+        <meta name="DC.Description" content="{{ page.description }}">
+        {% endif %}
+
         <meta name="DC.Publisher" content="Andrew Miracle">
         <meta name="DC.Contributor" content="Andrew Miracle">
         <meta name="DC.Date" content="{{ page.date | date: "%b %-d %Y" }}">
