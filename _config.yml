@@ -16,6 +16,7 @@
 
 lang: "en" # or fr, de, es etc.
 title: 'Andrew Miracle'
+img: andrew.jpg
 email: me@andrewmiracle.com
 description: "Fullstack Software Developer, Musician, Product Designer, Writer, Speaker, Entrepreneur. Work and personal blog."
 baseurl: "" # the subpath of your site, e.g. /blog/

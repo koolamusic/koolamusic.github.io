@@ -12,6 +12,10 @@
     font-family: $c-sans-serif;
 }
 
+.c-serif {
+    font-family: $c-serif;
+}
+
 .c-lh-copy {
     line-height: $c-lh-copy;
     @media #{$breakpoint-medium} {

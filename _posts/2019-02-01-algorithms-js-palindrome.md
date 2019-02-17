@@ -1,6 +1,6 @@
 ---
 layout: post
-title: isPalindrome in Javascript
+title: Palindrome in Javascript
 category: code
 image: atom.jpg
 ---
