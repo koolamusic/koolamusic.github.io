@@ -86,9 +86,10 @@ Because the SASS files refer to each other and `_c.scss` may refer to `_variable
 
 
 # TODO 
- - [ ] Font-face seriff typography for paragraphs
+ - [x] Font-face seriff typography for paragraphs
  - [x] OG Meta Images == Social Media
  - [ ] PrismJS Integration for Code Highlighting
+ https://github.com/leonp/jekyll-tachyons
 
  ####  EPIC TODO
  - [ ] Fullwidth Images
