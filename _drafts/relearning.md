@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Your expertise lies in relearning and unlearning
+title: Web projects and stakeholders
 ---
 
 [Outdated UX patterns](http://sideproject.io/outdated-ux-patterns/) is a useful reminder of the sorts of things you shouldn't be using when you build content for the web. However, you'll insist on using them for a handful of reasons:
