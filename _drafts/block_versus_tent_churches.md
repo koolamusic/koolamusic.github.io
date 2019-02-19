@@ -1,5 +1,5 @@
 ---
-title: It's House on the Rock, Not Tent on the Rock
+title: It's a House on the Rock, Not Tent
 layout: post
 
 ---

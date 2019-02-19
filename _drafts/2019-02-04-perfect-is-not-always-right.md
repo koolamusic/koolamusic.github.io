@@ -1,5 +1,5 @@
 ---
-title: Not always Perfect Opensource
+title: Maximizing Time for Perfection
 layout: post
 ---
 
@@ -19,3 +19,6 @@ Which aspects of your life had you been a victim to Over-perfection; don't mind 
 P.S: After I realized this, I cleaned up the whole house within the next 45 minutes.
 
 Whether you like or not, only 20% of the Detergent you apply on your clothe will remove that dent on the neck of your shirt, the rest just get into the fold, so also you should find the 80/20 narrative to your current workflow.
+
+
+So mmore likely ask yourself what 20% of the overall chunk of this task can I work on[THESARUS] to seemingly achieve a status or Work Done, note that the definition of done should be known and the results to be achieved from a status of DONE should be clear.

@@ -12,6 +12,7 @@ In his words,
 - Dey G
 Keep your senses at the top, observe every action, movement, and communication as they occur. I once had a man
 
+- RULE 1 - Trust no one, everybody is a suspect.
 
 - All that glitters is not gold
 Don't trust any bus that has a good exterior, well painted, seats with foam, looking all polished, you possibly might be falling for a trap, or a rookie driver who would either waste your precious time or get everyone in trouble, or the vehicle won't even reach your final destination because its engine isnt good.
@@ -24,9 +25,15 @@ Sometimes they work with their fellows and spread across junctions and pickup po
 - Two things you must do to yourself 
 Search yourself before you enter, and search yourself after you alight the bus, just by the vehicle door.
 
+- If the vehicle is too clean & neat **suspect it**, chances are that it may not get to your destination, A very fine exterior doesn't necessarily indicate a functional motor engine.
+
+- If a Passenger mistakenly drops their item beside you just before alighting from the bus, items like Hankerchief, Wallet, Hairwarmer or caps, please call them to come pick it up WITH THEIR HANDS.
+
 
 
 But as the days go by, I quickly cannot forget the word `DEY G` as I enter every new public transport, hopefully abiding by the principles of `G` would enable you 
 leave the vehicle smarter, better and without any loss.
 
 This list is not in anyway exaustive, but if you have experience with any rules that would help commuters stay safer while using pub trans, dont mind sharing.
+
+
