@@ -22,3 +22,18 @@ Is there any thing I should know about my job ?
 
 
 These questions are for your boss ?
+
+
+===============================
+
+- Be Cautious of Name and how they are pronounced 
+
+
+- Costume, how do the fellows in your department dress, The aim is to blend in. not clone a style
+
+- Territories, some folks love their stationery, cups, plates, cables or even mouse, mark territories well and know what you should not touch or use.
+
+- Compliments : If someone does something nice, genuinely compliment them and say thank you, this is not easy to come by, but you would see a resultant effect in how they also compliment you for a good work done overtime, the deal here is that at a certain point in time, everyone wants to know when they did well at work for the day, and so those genuine moments are highlights of the time and effort they put into the result they presented before you. The side effect is that people may tend to now bring their work close to you for you to provide a remark and feedback and you would have to be armed with the rules of giving feedback, which is critically important that you do well to avoid your thoughts and expressions seem ingenuine.
+
+- Language/Accents: Maybe you are from another country, tribe or ethnicity, chances are that at some point in your career you would swtich to an organization where your cultural background is the minority, you have to make quite a lot of adjustments to your tone so as not to sound strange, for some people whats more important is communication, while some who also have not had that much exposure would see it as strange the way you sound, you have to be willing to embrace the criticism, open or closed and learn from it, but more importantly make your team understand that it is a priviledge for them to experience the exotic nature of your accent and its a rare lifetime opportunity, overtime even during the board meetings, as long as you're good at the job you're being hired for, your voice would have a signature to the valuable insights, suggestions and results you bring forward to your team and organization.
+
