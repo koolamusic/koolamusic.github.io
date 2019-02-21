@@ -1,5 +1,5 @@
 ---
-title: "Lessons learned from developing a service"
+title: "Lessons learned from developing for a startup"
 category: web
 description: "Because by far the best feedback comes from real life usage, you should look at keeping back development money post-official launch."
 img: atom.png
