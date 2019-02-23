@@ -3,17 +3,17 @@ layout: empty
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title type="text" xml:lang="en">Andrew Miracle &#8211; Politics</title>
-    <link type="application/atom+xml" href="https://andrewmiracle.com.com/posts/politics/feed/" rel="self"/>
-    <link type="text" href="https://andrewmiracle.com/posts/politics" rel="alternate"/>
+    <title type="text" xml:lang="en">Andrew Miracle &#8211; Web</title>
+    <link type="application/atom+xml" href="https://andrewmiracle.com.com/posts/web/" rel="self"/>
+    <link type="text" href="https://andrewmiracle.com/posts/web" rel="alternate"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
     <id>https://andrewmiracle.com</id>
     <author><name>Andrew Miracle</name></author>
     <rights>Copyright (c) Andrew Miracle</rights>
 
-    {% assign politics_posts =  site.posts | where: "category", "politics" %}
+    {% assign web_posts = site.posts  | where: "category", "web" %}
 
-    {% for post in politics_posts %}
+    {% for post in web_posts %}
 
         {% if post.layout != 'redirect' %}
 

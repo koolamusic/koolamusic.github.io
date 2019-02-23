@@ -1,8 +1,10 @@
 name,slug,description
 Web,web,"Posts on accessibility, simplicity, typography and managing &amp; developing websites and services."
-Libraries,libraries,"Posts on web &amp; tech in libraries."
+Libraries,libraries,"Posts on web frameworks and libraries."
 Startups,startups,"Post on Startups and Business, Reviews, Ideas and Strategy"
 Thinking,thinking,"Posts on books, music, philosophy and anything else."
 Books,books,"Summaries from books I am currently reading."
 Work,work,"Personal projects and case studies from working for different startups."
 Religion,religion,"I talk about Christianity, the Holy Spirit and God."
+Code,code,"Technical articles, software development, linux, javascript, opensource, git etc."
+Election,election,"Nigeria selects its leaders in 2019, election results from INEC polling units as they are counted."
