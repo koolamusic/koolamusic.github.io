@@ -23,6 +23,7 @@ layout: empty
                 <updated>{{ post.date | date_to_xmlschema }}</updated>
                 <id>https://andrewmiracle.com{{ post.url }}/</id>
                 <content type="html">{{ post.content | xml_escape }}</content>
+                <image type="html"><img src="https://andrewmiracle.com/images/{{ post.img }}" alt="{{post.alt}}" /></image>
             </entry>
 
         {% endif %}
