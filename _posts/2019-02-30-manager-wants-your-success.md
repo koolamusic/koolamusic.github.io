@@ -17,19 +17,19 @@ Given the amount of pressure and expectation in our modern workplaces today, it 
 So for someone who finds themselves under this form of management or leadership its very important that you should be able to :
 
 
-- Do your work without drama
+### Do your work without drama
 
 No body likes to shout or talk too much, if you are given a task, get head on with it and clear it off with less drama and clutter. 
 
-- Avoid giving excuses
+### Avoid giving excuses
 
 This accompanies the drama rule, don't be or act like an incompetent or relegate yourself to the company liability list, don't be a farm of excuses.
 
-- Ask questions when confused
+### Ask questions when confused
 
 Not the stupid ones of course, It is however beneficial to be able to communicate your confusion in a clear and concise manner, upper management staff usually don't have a lot of time on their hands, so these fellows tend to appreciate concise and straight to the point approaches. It also goes to say that, If you're having difficulties let them know before hand, however, this is not a license to be giving excuses
 
-- Remember the Pareto Principle
+### Remember the Pareto Principle
 
 You remember the 80/20 rule, yeah of course, this time around in the workplace you want to be among the 20% that's responsible for 80% of the companies output, these output means result that's helping your organization hit a target.
 
