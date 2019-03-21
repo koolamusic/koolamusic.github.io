@@ -1,3 +1,7 @@
+
+In javascript, there is a concept called the async | await, where a function call waits for another function, retrieves it value
+and then queries another function which is reliant on data from the initial function call. 
+
 Sometimes when we pray, the answer we expect God to give us is not the one He offers
 In most cases he chooses a part that would give us more than we asked for.
 we only need patience to see through and listen for his direction, He has
