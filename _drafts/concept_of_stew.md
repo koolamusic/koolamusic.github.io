@@ -1,5 +1,5 @@
 ---
-title: Why I love Stew
+title: Why do bachelors love stew 
 layout: post
 
 ---
