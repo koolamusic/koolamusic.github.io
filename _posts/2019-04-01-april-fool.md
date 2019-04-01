@@ -1,6 +1,6 @@
 ---
 layout: post
-title: April Fool Prank
+title: Happy April Fool Prank
 img: andrew.jpg
 alt: April Fool
 ---
