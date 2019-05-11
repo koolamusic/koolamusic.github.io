@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vote for Salzzy Andrew Miracle XEGA</title>
+    <link rel="stylesheet" href="https://unpkg.com/wingcss"/>
+
+	<style>
+
+	body{
+	  width: 70%;
+	  margin: 0 auto;
+	   }
+
+	@media (max-width: 600px){
+	body{
+		width: 100%;
+		height: 100%;
+	    }}
+	</style>
+  </head>
+  <body>
+    <form action="https://docs.google.com/forms/d/e/1FAIpQLScDmJdsjApW5eqrEB5TBw-S5lsDsYPzJGSwmUy65gggy_5zlg/formResponse"
+      target="_self"
+      id="bootstrapForm"
+      method="POST">
+    <fieldset>
+        <h2>VOTE NOW<br><small>XEGAWARDS 2018</small></h2>
+    </fieldset>
+    <fieldset>
+        <legend for="">Email</legend>
+        <div class="form-group">
+            <input id="emailAddress" type="email" name="emailAddress" class="form-control" required>
+        </div>
+    </fieldset>
+
+
+    <!-- Field type: "dropdown" id: "1660126827" -->
+    <fieldset>
+        <legend for="1660126827">Pianist of the Year</legend>
+        <div class="form-group">
+            <select id="1660126827" name="entry.1224107497" class="form-control">
+                <option value="SALZZY ANDREW MIRACLE"></option>
+                <option value="JERRY ONYEKACHI">JERRY ONYEKACHI</option>
+                <option value="OGUERI EBUKA CHRISTAIN">OGUERI EBUKA CHRISTAIN</option>
+                <option value="HENRY IKEH">HENRY IKEH</option>
+                <option value="SALZZY ANDREW MIRACLE">SALZZY ANDREW MIRACLE</option>
+                <option value="VICTORY (SOLOGURU)">VICTORY (SOLOGURU)</option>
+                <option value="SMART IHUOMA">SMART IHUOMA</option>
+            </select>
+        </div>
+    </fieldset>
+
+    <!-- Field type: "dropdown" id: "663827472" -->
+    <fieldset>
+        <legend for="663827472">Music Producer Of The Year</legend>
+        <div class="form-group">
+            <select id="663827472" name="entry.1123667040" class="form-control">
+                <option value=""></option>
+                <option value="DrNezer">DrNezer</option>
+                <option value="Donseth">Donseth</option>
+                <option value="J-Phil">J-Phil</option>
+                <option value="Mc- Hills">Mc- Hills</option>
+                <option value="Mobidykes">Mobidykes</option>
+            </select>
+        </div>
+    </fieldset>
+
+
+
+
+    <!-- Field type: "dropdown" id: "262578139" -->
+    <fieldset>
+        <legend for="262578139">Choir of the Year</legend>
+        <div class="form-group">
+            <select id="262578139" name="entry.1544049563" class="form-control">
+                <option value="Vessels of Glory"></option>
+                <option value="Angel&#x27;s Choir">Angel&#x27;s Choir</option>
+                <option value="Vessels of Glory">Vessels of Glory</option>
+                <option value="Glorious Life Choir">Glorious Life Choir</option>
+                <option value="De&#x27;worldmasschoir Intl">De&#x27;worldmasschoir Intl</option>
+            </select>
+        </div>
+    </fieldset>
+
+
+    <!-- Field type: "dropdown" id: "1459591366" -->
+    <fieldset>
+        <legend for="1459591366">Comedian of the Year</legend>
+        <div class="form-group">
+            <select id="1459591366" name="entry.1763414905" class="form-control">
+                <option value="Klasikal"></option>
+                <option value="Weeping Pastor">Weeping Pastor</option>
+                <option value="Klasikal">Klasikal</option>
+                <option value="Mc U2">Mc U2</option>
+                <option value="British Talkatives">British Talkatives</option>
+                <option value="Bunch Vee">Bunch Vee</option>
+            </select>
+        </div>
+    </fieldset>
+
+
+
+
+    <input type="hidden" name="fvv" value="1">
+    <input type="hidden" name="fbzx" value="-1539003644277636688">
+    <!--
+        CAVEAT: In multipages (multisection) forms, *pageHistory* field tells to google what sections we've currently completed.
+        This usually starts as "0" for the first page, then "0,1" in the second page... up to "0,1,2..N" in n-th page.
+        Keep this in mind if you plan to change this code to recreate any sort of multipage-feature in your exported form.
+        We're setting this to the total number of pages in this form because we're sending all fields from all the section together.
+    -->
+    <input type="hidden" name="pageHistory" value="0">
+
+    <input class="btn btn-primary" type="submit" value="Submit">
+</form>
+
+  </body>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.2/jquery.form.min.js" integrity="sha256-2Pjr1OlpZMY6qesJM68t2v39t+lMLvxwpa8QlRjJroA=" crossorigin="anonymous"></script>
+<script type="text/javascript">
+$('#bootstrapForm').submit(function (event) {
+    event.preventDefault()
+    var extraData = {}
+    $('#bootstrapForm').ajaxSubmit({
+        data: extraData,
+        dataType: 'jsonp',  // This won't really work. It's just to use a GET instead of a POST to allow cookies from different domain.
+        error: function () {
+            // Submit of form should be successful but JSONP callback will fail because Google Forms
+            // does not support it, so this is handled as a failure.
+            alert('Thank you for Voting!!')
+            // You can also redirect the user to a custom thank-you page:
+            // window.location = 'http://praizarena.com/xega-2018-nominee-list/'
+        }
+    })
+})
+</script>
+
+</html>
